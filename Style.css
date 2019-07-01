@@ -1,0 +1,31 @@
+.test {
+  background: grey;
+  
+ 
+  grid-template-rows: 50px;
+}
+.container{
+  
+  font-size: 40px;
+  background: lightblue;
+  height: 100%;
+}
+
+.logo{
+  background: red;
+  
+}
+
+.mission{
+  font-size: 20px;
+}
+
+.content-1{
+  background: gray;
+}
+.pic-1{
+  background: brown;
+}
+.test {
+  height: 100%;
+}
