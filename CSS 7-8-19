@@ -1,0 +1,38 @@
+.test {
+    background: black;
+    height: 100%;
+}
+
+.numero2 {
+    background: black;
+    height: 100%;
+}
+
+.container {
+
+    font-size: 40px;
+    background: white;
+    height: 100%;
+}
+
+.logo {
+    background: red;
+
+}
+
+.mission {
+    font-size: 20px;
+}
+
+.content-1 {
+    background: gray;
+}
+
+.pic-1 {
+
+    background-image: url('https://images-na.ssl-images-amazon.com/images/I/91%2BP3NQlHsL._SL1500_.jpg');
+    width: 50%;
+    height: 50%;
+    object-fit: contain;
+
+}
