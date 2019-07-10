@@ -1,0 +1,41 @@
+.test {
+    background: black;
+    height: 100%;
+}
+
+.numero2 {
+    background: black;
+    height: 100%;
+}
+
+.container {
+
+    font-size: 40px;
+    background: white;
+    height: 100%;
+}
+
+.logo {
+    background: red;
+
+}
+
+nav p {
+    font-size: 20px;
+    text-align: center;
+}
+
+.content-1 {
+    background: gray;
+}
+
+.pic-1 {
+
+    background-image: url('https://amp.businessinsider.com/images/5231c082ecad04be2f27081b-960-720.jpg');
+    
+    object-fit: cover;
+  }
+article p
+{
+  font-size: 25px;
+}
